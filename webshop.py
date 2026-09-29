@@ -9,7 +9,7 @@ products = [
         "type": "clothing",
         "id": "0",
         "name": "Black Elegance Dress",
-        "price": 100,
+        "price": 200,
         "img": "dress.png",
         "description": "Choose elegance, sophistication, and style with our Black Elegance Dress. Elevate your evening attire and captivate the room with your impeccable fashion sense. Order yours today and let the Black Elegance Dress become your go-to piece for unforgettable moments."
     },
@@ -17,7 +17,7 @@ products = [
         "type": "clothing",
         "id": "1",
         "name": "Shimmering Nights Skirt",
-        "price": 85,
+        "price": 100,
         "img": "skirt2.png",
         "description": "Indulge in the allure of our Shimmering Nights Skirt and make a lasting impression wherever you go. Elevate your style with its undeniable beauty and create memories in an outfit that exudes sophistication and charm. Order yours today and let the Shimmering Nights Skirt be the centerpiece of your wardrobe."
     },
