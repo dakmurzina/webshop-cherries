@@ -9,7 +9,7 @@ products = [
         "type": "clothing",
         "id": "0",
         "name": "Black Elegance Dress",
-        "price": 200,
+        "price": 300,
         "img": "dress.png",
         "description": "Choose elegance, sophistication, and style with our Black Elegance Dress. Elevate your evening attire and captivate the room with your impeccable fashion sense. Order yours today and let the Black Elegance Dress become your go-to piece for unforgettable moments."
     },
