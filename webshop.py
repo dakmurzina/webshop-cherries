@@ -17,7 +17,7 @@ products = [
         "type": "clothing",
         "id": "1",
         "name": "Shimmering Nights Skirt",
-        "price": 85,
+        "price": 100,
         "img": "skirt2.png",
         "description": "Indulge in the allure of our Shimmering Nights Skirt and make a lasting impression wherever you go. Elevate your style with its undeniable beauty and create memories in an outfit that exudes sophistication and charm. Order yours today and let the Shimmering Nights Skirt be the centerpiece of your wardrobe."
     },
